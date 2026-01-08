@@ -1,0 +1,8 @@
+class Pessoa {
+    string nome;
+    int idade;
+
+    int getIdade() {
+        return idade;
+    }
+}

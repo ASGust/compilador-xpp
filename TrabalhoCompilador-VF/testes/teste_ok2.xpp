@@ -1,0 +1,13 @@
+class Calculadora {
+    int a;
+    int b;
+
+    int soma(int x, int y) {
+        return x + y;
+    }
+
+    int produto(int x, int y) {
+        return x * y;
+    }
+}
+

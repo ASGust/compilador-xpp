@@ -1,0 +1,7 @@
+<program>
+<classDecl>
+<varDecl>
+Erro sintático na linha 3: esperado identificador (encontrado 'int')
+Erro sintático na linha 3: esperado ';' (encontrado 'y')
+Erro sintático na linha 3: esperado '}' (encontrado ';')
+Análise sintática finalizada.

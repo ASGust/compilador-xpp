@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1767743505 source:c:\users\gustavo alves silva\desktop\trabalho-compiladores\compiladores_xpp\lexer.cpp
+	"lexer.h"
+	<cctype>
+	<iostream>
+
+1767728168 c:\users\gustavo alves silva\desktop\trabalho-compiladores\compiladores_xpp\lexer.h
+	<string>
+	<fstream>
+
+1767743918 source:c:\users\gustavo alves silva\desktop\trabalho-compiladores\compiladores_xpp\main.cpp
+	"lexer.h"
+	"parser.h"
+	<iostream>
+	<fstream>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	<direct.h>
+
+1767727939 c:\users\gustavo alves silva\desktop\trabalho-compiladores\compiladores_xpp\parser.h
+	"lexer.h"
+	<fstream>
+	<string>
+
+1767727987 source:c:\users\gustavo alves silva\desktop\trabalho-compiladores\compiladores_xpp\parser.cpp
+	"parser.h"
+	<iostream>
+
+1767823678 source:c:\users\gustavo alves silva\desktop\trabalho-compiladores - copia\compiladores_xpp\lexer.cpp
+	"lexer.h"
+	<cctype>
+	<iostream>
+
+1767823719 c:\users\gustavo alves silva\desktop\trabalho-compiladores - copia\compiladores_xpp\lexer.h
+	<string>
+	<fstream>
+
+1767823177 source:c:\users\gustavo alves silva\desktop\trabalho-compiladores - copia\compiladores_xpp\main.cpp
+	"lexer.h"
+	"parser.h"
+	<iostream>
+	<fstream>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	<direct.h>
+
+1767727939 c:\users\gustavo alves silva\desktop\trabalho-compiladores - copia\compiladores_xpp\parser.h
+	"lexer.h"
+	<fstream>
+	<string>
+
+1767727987 source:c:\users\gustavo alves silva\desktop\trabalho-compiladores - copia\compiladores_xpp\parser.cpp
+	"parser.h"
+	<iostream>
+
+1767823678 source:c:\users\gustavo alves silva\desktop\trabalhocompilador-vf\compiladores_xpp\lexer.cpp
+	"lexer.h"
+	<cctype>
+	<iostream>
+
+1767823719 c:\users\gustavo alves silva\desktop\trabalhocompilador-vf\compiladores_xpp\lexer.h
+	<string>
+	<fstream>
+
+1767727987 source:c:\users\gustavo alves silva\desktop\trabalhocompilador-vf\compiladores_xpp\parser.cpp
+	"parser.h"
+	<iostream>
+
+1767727939 c:\users\gustavo alves silva\desktop\trabalhocompilador-vf\compiladores_xpp\parser.h
+	"lexer.h"
+	<fstream>
+	<string>
+
+1767904425 source:c:\users\gustavo alves silva\desktop\trabalhocompilador-vf\compiladores_xpp\main.cpp
+	"lexer.h"
+	"parser.h"
+	<iostream>
+	<fstream>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	<direct.h>
+

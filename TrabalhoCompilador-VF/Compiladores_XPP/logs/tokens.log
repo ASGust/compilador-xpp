@@ -1,0 +1,10 @@
+Linha 1 | Token: 0 | Lexema: class
+Linha 1 | Token: 15 | Lexema: Teste
+Linha 1 | Token: 19 | Lexema: {
+Linha 2 | Token: 2 | Lexema: int
+Linha 2 | Token: 15 | Lexema: x
+Linha 3 | Token: 2 | Lexema: int
+Linha 3 | Token: 15 | Lexema: y
+Linha 3 | Token: 19 | Lexema: ;
+Linha 4 | Token: 19 | Lexema: }
+Linha 6 | Token: 20 | Lexema: 
